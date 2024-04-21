@@ -1,13 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_mapa",
+  "%Name":"Obj_grade01_praca",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":12,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_mapa",
+  "name":"Obj_grade01_praca",
   "overriddenProperties":[],
   "parent":{
     "name":"mapa",
@@ -30,8 +28,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
-  "spriteId":null,
+  "solid":true,
+  "spriteId":{
+    "name":"Spr_grade01_praca",
+    "path":"sprites/Spr_grade01_praca/Spr_grade01_praca.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

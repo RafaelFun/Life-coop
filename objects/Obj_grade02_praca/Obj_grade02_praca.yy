@@ -1,13 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_mapa",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":12,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Obj_grade02_praca",
+  "eventList":[],
   "managed":true,
-  "name":"Obj_mapa",
+  "name":"Obj_grade02_praca",
   "overriddenProperties":[],
   "parent":{
     "name":"mapa",
@@ -31,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Spr_grade02_praca",
+    "path":"sprites/Spr_grade02_praca/Spr_grade02_praca.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
