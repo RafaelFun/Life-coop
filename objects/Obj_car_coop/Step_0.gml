@@ -71,4 +71,3 @@ if(global.car_coop){
 	}
 
 }
-show_debug_message(global.car_coop)
